@@ -1,4 +1,7 @@
-import requests, time, os
+import os
+
+os.system("pip install requests")
+import requests, time
 
 
 text = "Hi my name is Afton V 1.0"
