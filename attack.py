@@ -1,10 +1,10 @@
 import requests, time, os
 
 
-text = "Hi my name is Afton"
+text = "Hi my name is Afton V 1.0"
 texts = ""
 for i in text:
-    os.system("cls")
+    os.system("clear")
     texts += i
     print(f"{texts}|")
     time.sleep(0.1)
@@ -15,7 +15,7 @@ time.sleep(10)
 text = "my channel is : @Aftonplus , my id telegram = @Aftonplus1 exit = Ctrl + C"
 texts = ""
 for i in text:
-    os.system("cls")
+    os.system("clear")
     texts += i
     print(f"{texts}|")
     time.sleep(0.1)
